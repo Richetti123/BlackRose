@@ -11,9 +11,9 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51955095498", 'Richetti', true], //Richetti
-["51933348947"], 
-["56945086055"], 
+["51966254634", 'Richetti', true], //Richetti
+["56997506392"], 
+["5219811962898"], 
 ["56945086055"], 
 ["56945086055"],
 ["56945086055"],
@@ -27,7 +27,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["56945086055"]
+global.prems = ["56997506392"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -43,12 +43,10 @@ global.lenguajeGB = es //Idioma de MichiBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-/* Si quieres modificar esto y agregar mas APIs asegurate poner global.tuapiname = ['apikey'] */ /* By Skid 🤑 */
-
-global.openai_key = 'sk-0';
+global.openai_key = 'sk-0'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
-global.openai_org_id = 'org-3';
+global.openai_org_id = 'org-3'
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
 global.keysZens = ["LuOlangNgentot", "c2459db922", "37CC845916", "6fb0eff124", "hdiiofficial", "fiktod", "BF39D349845E", "675e34de8a", "0b917b905e6f"]
@@ -103,46 +101,46 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56997506392", 'ShiranuiBot', 1], 
+["56997506392", 'ShiranuiBot', 1],  
+["56997506392", 'ShiranuiBot', 1],
+["56997506392", 'ShiranuiBot', 1],
+["56997506392", 'ShiranuiBot', 1]]
 
 global.mail = '' //agrega tú correo
-global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
-global.desc2 = 'MichiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.desc = 'ShiranuiBot el mejor bot de whatsapp' //agrega una descripción corta
+global.desc2 = 'ShiranuiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MichiBot"
-global.author = "MichiBot"
+global.packname = "ShiranuiBot"
+global.author = "ShiranuiBot"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "MichiBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.gt = "ShiranuiBot"
+global.yt = "https://www.paypal.me/corporacionvk"
+global.yt2 = "https://www.paypal.me/corporacionvk"
+global.ig = "https://www.paypal.me/corporacionvk"
+global.md = "https://www.paypal.me/corporacionvk"
+global.fb = "https://www.paypal.me/corporacionvk"
 
-global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Help
-global.nn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
+global.nna = 'https://www.paypal.me/corporacionvk' //CANAL UPDATE
+global.nn2 = 'https://www.paypal.me/corporacionvk' //UPDATE
+global.nna2 = 'https://www.paypal.me/corporacionvk' //Help
+global.nn = 'https://www.paypal.me/corporacionvk' //Grupo 1
+global.nnn = 'https://www.paypal.me/corporacionvk' //Grupo 2
+global.nnnt = 'https://www.paypal.me/corporacionvk' //Grupo 3
+global.nnntt = 'https://www.paypal.me/corporacionvk' //Grupo 4
+global.nnnttt = 'https://www.paypal.me/corporacionvk' //Grupo 5
+global.nnnttt1 = 'https://www.paypal.me/corporacionvk'; //Grupo 6 COL
+global.nnnttt2 = 'https://www.paypal.me/corporacionvk' //Grupo 7 COL
+global.nnnttt3 = 'https://www.paypal.me/corporacionvk' //Grupo 8 COL
+global.nnnttt4 = 'https://www.paypal.me/corporacionvk' //Grupo 9 COL
+global.nnnttt5 = 'https://www.paypal.me/corporacionvk' //A.T.M.M
+global.paypal = 'https://www.paypal.me/corporacionvk'
 global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -177,8 +175,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "ShiranuiBot"
+global.igfg = "ShiranuiBot"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
