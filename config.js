@@ -101,26 +101,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56997506392", 'ShiranuiBot', 1], 
-["56997506392", 'ShiranuiBot', 1],  
-["56997506392", 'ShiranuiBot', 1],
-["56997506392", 'ShiranuiBot', 1],
-["56997506392", 'ShiranuiBot', 1]]
+["56997506392", 'BlackRose', 1], 
+["56997506392", 'BlackRose', 1],  
+["56997506392", 'BlackRose', 1],
+["56997506392", 'BlackRose', 1],
+["56997506392", 'BlackRose', 1]]
 
 global.mail = '' //agrega tú correo
-global.desc = 'ShiranuiBot el mejor bot de whatsapp' //agrega una descripción corta
-global.desc2 = 'ShiranuiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.desc = 'BlackRose el mejor bot de whatsapp' //agrega una descripción corta
+global.desc2 = 'BlackRose el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "ShiranuiBot"
-global.author = "ShiranuiBot"
+global.packname = "BlackRose"
+global.author = "BlackRose"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "ShiranuiBot"
+global.gt = "BlackRose"
 global.yt = "https://www.paypal.me/corporacionvk"
 global.yt2 = "https://www.paypal.me/corporacionvk"
 global.ig = "https://www.paypal.me/corporacionvk"
@@ -175,8 +175,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "ShiranuiBot"
-global.igfg = "ShiranuiBot"
+global.wm = "BlackRose"
+global.igfg = "BlackRose"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
